@@ -23,7 +23,7 @@ A FastAPI application that provides an API for sentiment analysis using the Dist
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/phualisee/sentiment-analysis-api.git
+git clone https://github.com/jchua1306/sentiment-analysis-api.git
 cd sentiment-analysis-api
 ```
 
@@ -36,7 +36,7 @@ docker-compose up --build
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/phualisee/sentiment-analysis-api.git
+git clone https://github.com/jchua1306/sentiment-analysis-api.git
 cd sentiment-analysis-api
 ```
 
