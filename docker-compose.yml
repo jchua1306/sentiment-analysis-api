@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  sentiment-api:
+    build: .
+    ports:
+      - "8001:8001"
+    volumes:
+      - .:/app
+    container_name: sentiment-api
